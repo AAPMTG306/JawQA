@@ -7,6 +7,7 @@ This is an independently developed Tomotherapy/Radixact Dynamic Jaw QA analysis 
 
 Please report bugs or provide feedbacks to quanchen@gmail.com.
 
+Download the TG306_analyTomoDJSweep.zip in this repository.
 
 1. Files to deploy and package
 Files contained in this package
