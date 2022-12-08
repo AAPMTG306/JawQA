@@ -61,4 +61,7 @@ Once you got a good result from the provided SampleInput.csv. You can start to a
 
 Replace the SammpleInput.csv with the name and path of your Jaw Sweep data in the command above.
 
+5. Example Outputs
+![JawSweep discrete vs continuous consistency](J7SweepShiftedComp.png)
 
+![Output Excel sheet](SampleOutput.png)
